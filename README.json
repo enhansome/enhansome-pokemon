@@ -1,0 +1,850 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Development Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PokeAPI",
+          "description": "A RESTful API for Pokémon (http://pokeapi.co/).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T07:05:24Z",
+            "owner": "PokeAPI",
+            "repo": "pokeapi",
+            "stars": 5321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin-Pokedex",
+          "description": "Pokedex app built with Kotlin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-01-25T05:22:02Z",
+            "owner": "mrcsxsiq",
+            "repo": "Kotlin-Pokedex",
+            "stars": 1550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgoapi",
+          "description": "Pokémon GO API lib/demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Protocol Buffer",
+            "last_commit": "2022-09-23T21:26:49Z",
+            "owner": "tejado",
+            "repo": "pgoapi",
+            "stars": 1391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon GO Java API",
+          "description": "Pokémon GO API for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-12T06:17:03Z",
+            "owner": "Grover-c13",
+            "repo": "PokeGOAPI-Java",
+            "stars": 1045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCGdex",
+          "description": "Multi languages Pokémon TCG API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:06:36Z",
+            "owner": "tcgdex",
+            "repo": "cards-database",
+            "stars": 988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon-GO-node-api",
+          "description": "Pokémon GO API Node.js library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-27T18:05:29Z",
+            "owner": "Armax",
+            "repo": "Pokemon-GO-node-api",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon Name API",
+          "description": "Get a list of Pokémon names in JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T11:06:43Z",
+            "owner": "sindresorhus",
+            "repo": "pokemon",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql-pokemon",
+          "description": "Get information of a Pokémon with GraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T22:36:52Z",
+            "owner": "lucasbento",
+            "repo": "graphql-pokemon",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon-Go-Rocket-API",
+          "description": "Client API library for Pokémon GO in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-08-16T18:39:03Z",
+            "owner": "FeroxRev",
+            "repo": "Pokemon-Go-Rocket-API",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokemonGO-Pokedex",
+          "description": "Pokédex of Pokémon GO in JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-28T11:17:07Z",
+            "owner": "Biuni",
+            "repo": "PokemonGO-Pokedex",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokemon-API",
+          "description": "Beginner friendly API endpoint that returns Pokémon Data in JSON format (https://app.pokemon-api.xyz).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-25T07:57:50Z",
+            "owner": "Purukitto",
+            "repo": "PikaServe",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokeTypes",
+          "description": "Get Pokémon types, weaknesses and strengths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T19:04:23Z",
+            "owner": "fbosch",
+            "repo": "poke-types",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pokedex",
+          "description": "Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T05:38:06Z",
+            "owner": "skydoves",
+            "repo": "Pokedex",
+            "stars": 8351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon-Showdown",
+          "description": "Pokémon battle simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:48:22Z",
+            "owner": "smogon",
+            "repo": "pokemon-showdown",
+            "stars": 5829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iPokeMon",
+          "description": "Pokémon like game on iOS with Location Based Service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2016-08-26T17:07:19Z",
+            "owner": "Kjuly",
+            "repo": "iPokeMon",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokemon-online",
+          "description": "Online Pokémon Battle Simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-23T22:47:36Z",
+            "owner": "po-devs",
+            "repo": "pokemon-online",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuffle-Move",
+          "description": "A program to identify and display the best next move for the game Pokémon Shuffle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-09-21T19:37:49Z",
+            "owner": "Loreinator",
+            "repo": "Shuffle-Move",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokecry",
+          "description": "Guess Pokémon from their cry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-21T04:57:09Z",
+            "owner": "fent",
+            "repo": "pokecry",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Who's That Pokémon?",
+          "description": "Guess Pokémon from their silhouette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-06-15T03:28:36Z",
+            "owner": "serena2341",
+            "repo": "whos-that-pokemon",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PokemonGo-Bot",
+          "description": "The Pokémon GO bot script, baking with community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-07T12:57:09Z",
+            "owner": "PokemonGoF",
+            "repo": "PokemonGo-Bot",
+            "stars": 3909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokemonGoBot",
+          "description": "Bot that plays Pokémon GO.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2019-07-20T11:00:05Z",
+            "owner": "jabbink",
+            "repo": "PokemonGoBot",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokeBuddy",
+          "description": "A Pokémon GO bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-26T12:56:47Z",
+            "owner": "finndev",
+            "repo": "PokeBuddy",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slack-pokemon",
+          "description": "A bot for having Pokémon battles in Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-10T16:10:52Z",
+            "owner": "rvinluan",
+            "repo": "slack-pokemon",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poketrainer",
+          "description": "A fast and feature filled bot in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-03-19T22:22:46Z",
+            "owner": "jekirl",
+            "repo": "poketrainer",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwitchPlaysPokemon",
+          "description": "A bot mimicking Twitch Plays Pokémon.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2014-04-27T05:45:45Z",
+            "owner": "sunshinekitty",
+            "repo": "TwitchPlaysPokemon",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokeSlack",
+          "description": "Alerts you of nearby Pokémon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-10T05:41:57Z",
+            "owner": "timwah",
+            "repo": "pokeslack",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon Go Bot",
+          "description": "Pokémon GO bot that farms for Pokestops and Pokémon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T16:51:24Z",
+            "owner": "Hrithikd",
+            "repo": "Pokemon-Go-Farm-API",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bot Builder for PokemonGoBot",
+          "description": "Simply build your Pokémon GO bot.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2016-08-30T08:44:52Z",
+            "owner": "shilch",
+            "repo": "pogobot-builder",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokeBot",
+          "description": "The automated Pokémon speedrunning machine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-02-17T05:34:14Z",
+            "owner": "akbaryahya",
+            "repo": "PokeWP",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PokemonRedExperiments",
+          "description": "Playing Pokémon Red with Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-28T18:15:47Z",
+            "owner": "PWhiddy",
+            "repo": "PokemonRedExperiments",
+            "stars": 7892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokered",
+          "description": "Disassembly of Pokémon Red/Blue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-10T17:30:25Z",
+            "owner": "pret",
+            "repo": "pokered",
+            "stars": 4876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon-Terminal",
+          "description": "Pokémon terminal themes for iTerm2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-25T14:44:15Z",
+            "owner": "LazoVelko",
+            "repo": "Pokemon-Terminal",
+            "stars": 4793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokecrystal",
+          "description": "Disassembly of Pokémon Crystal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-06T21:08:51Z",
+            "owner": "pret",
+            "repo": "pokecrystal",
+            "stars": 2490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemon-Go-Controller",
+          "description": "Play Pokémon GO safely or at unavailable area.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-11-03T02:28:27Z",
+            "owner": "kahopoon",
+            "repo": "Pokemon-Go-Controller",
+            "stars": 2464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokesprite",
+          "description": "Database of Pokémon sprites from the core series games, including custom shiny versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T13:18:49Z",
+            "owner": "msikma",
+            "repo": "pokesprite",
+            "stars": 1259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyper-pokemon",
+          "description": "Wondrous, tailor-made Pokémon themes for your Hyper terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T02:37:25Z",
+            "owner": "klaudiosinani",
+            "repo": "hyper-pokemon",
+            "stars": 1246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokeMMO",
+          "description": "WebGL Pokémon MMO Engine with Realtime Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-12T16:12:09Z",
+            "owner": "maierfelix",
+            "repo": "PokeMMO",
+            "stars": 759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pogo-optimizer",
+          "description": "Shows you the IVs and information necessary to determine which Pokémon get ground into candy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-31T09:16:12Z",
+            "owner": "justinleewells",
+            "repo": "pogo-optimizer",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokemon-go-mitm-node",
+          "description": "Pokémon GO MITM Proxy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CoffeeScript",
+            "last_commit": "2016-09-06T00:32:25Z",
+            "owner": "rastapasta",
+            "repo": "pokemon-go-mitm",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slack-emoji-pokemon",
+          "description": "A list of Pokémon emojis for Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-11T14:51:21Z",
+            "owner": "Templarian",
+            "repo": "slack-emoji-pokemon",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokemon-reverse-engineering-tools",
+          "description": "Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-16T23:41:38Z",
+            "owner": "pret",
+            "repo": "pokemon-reverse-engineering-tools",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x-pokemon",
+          "description": "A web component to display Pokémon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-10-02T06:54:33Z",
+            "owner": "passy",
+            "repo": "x-pokemon",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokemonGO-IV-Renamer",
+          "description": "Automatically renames your Pokémon to their IV stats.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-04-07T22:36:12Z",
+            "owner": "Boren",
+            "repo": "pokemongo-iv-renamer",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokemon-cli",
+          "description": "CLI to get Pokémon names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-29T14:38:34Z",
+            "owner": "sindresorhus",
+            "repo": "pokemon-cli",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokemongo-game-master",
+          "description": "Collection of Pokémon GO Game Master versions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-07-11T08:05:09Z",
+            "owner": "BrunnerLivio",
+            "repo": "deprecated-pokemongo-game-master",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alfred-pokedex",
+          "description": "Alfred 3 workflow to lookup information about Pokémon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-09T17:43:26Z",
+            "owner": "vutran",
+            "repo": "alfred-pokedex",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slack-pokemon-emoji",
+          "description": "A tool to upload all the Pokémon to Slack emoji.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-20T19:49:44Z",
+            "owner": "fraserxu",
+            "repo": "slack-pokemon-emoji",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokemongo-genymotion",
+          "description": "Play Pokémon GO from your Genymotion device.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-25T20:46:51Z",
+            "owner": "jlobos",
+            "repo": "pokemongo-genymotion",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PoGoTools",
+          "description": "A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-12-26T15:20:15Z",
+            "owner": "nelsyeung",
+            "repo": "PoGoTools",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokéPalettes",
+          "description": "16-bit palettes that represent Pokémon (based on the models from Pokémon GO).",
+          "children": []
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources & Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PokemonGo-DesktopMap",
+          "description": "Electron app for Pokémon GO that shows Pokémon nearby.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-04-29T21:41:18Z",
+            "owner": "mchristopher",
+            "repo": "PokemonGo-DesktopMap",
+            "stars": 1747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokemap",
+          "description": "A native Android client to map the Pokémon around you.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-04T09:05:44Z",
+            "owner": "omkarmoghe",
+            "repo": "Pokemap",
+            "stars": 1005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iPokeGo",
+          "description": "A native iOS client to map the Pokémon around you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2022-09-04T11:48:34Z",
+            "owner": "istornz",
+            "repo": "iPokeGo",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokelocater",
+          "description": "Display Pokémon nearby your location on a map.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-07-22T18:56:35Z",
+            "owner": "emeth-",
+            "repo": "pokelocater",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokemonGo-Map",
+          "description": "Live visualization of all the Pokémon in your area and more.",
+          "children": []
+        }
+      ],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pokedex.org",
+          "description": "Offline-capable Pokédex web site https://pokedex.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-14T22:26:21Z",
+            "owner": "nolanlawson",
+            "repo": "pokedex.org",
+            "stars": 2276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokedex",
+          "description": "More than you ever wanted to know about Pokémon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-21T12:49:22Z",
+            "owner": "veekun",
+            "repo": "pokedex",
+            "stars": 1523
+          }
+        }
+      ],
+      "title": "Wiki"
+    },
+    {
+      "description": "To the extent possible under law, Tobias Bueschel has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:27:03.210Z",
+    "original_repository": "tobiasbueschel/awesome-pokemon",
+    "original_repository_sha": "0b70b83c476f85696577b07c7083eb21f04d2dc8",
+    "enhanced_repository": "enhansome/enhansome-pokemon",
+    "enhanced_repository_description": null,
+    "title": "Awesome pokemon with stars"
+  }
+}
