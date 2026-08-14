@@ -19,7 +19,7 @@
             "last_commit": "2026-08-11T07:05:24Z",
             "owner": "PokeAPI",
             "repo": "pokeapi",
-            "stars": 5321
+            "stars": 5323
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-01-25T05:22:02Z",
             "owner": "mrcsxsiq",
             "repo": "Kotlin-Pokedex",
-            "stars": 1550
+            "stars": 1551
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:06:36Z",
+            "last_commit": "2026-08-14T11:25:37Z",
             "owner": "tcgdex",
             "repo": "cards-database",
-            "stars": 988
+            "stars": 993
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-13T05:38:06Z",
             "owner": "skydoves",
             "repo": "Pokedex",
-            "stars": 8351
+            "stars": 8350
           }
         },
         {
@@ -204,7 +204,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T21:48:22Z",
+            "last_commit": "2026-08-14T13:05:31Z",
             "owner": "smogon",
             "repo": "pokemon-showdown",
             "stars": 5829
@@ -297,7 +297,7 @@
             "last_commit": "2023-12-07T12:57:09Z",
             "owner": "PokemonGoF",
             "repo": "PokemonGo-Bot",
-            "stars": 3909
+            "stars": 3910
           }
         },
         {
@@ -454,10 +454,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-10T17:30:25Z",
+            "last_commit": "2026-08-13T21:56:37Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4876
+            "stars": 4877
           }
         },
         {
@@ -482,10 +482,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-06T21:08:51Z",
+            "last_commit": "2026-08-13T21:57:49Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2490
+            "stars": 2491
           }
         },
         {
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:27:03.210Z",
+    "last_updated": "2026-08-14T15:11:47.329Z",
     "original_repository": "tobiasbueschel/awesome-pokemon",
     "original_repository_sha": "0b70b83c476f85696577b07c7083eb21f04d2dc8",
     "enhanced_repository": "enhansome/enhansome-pokemon",
