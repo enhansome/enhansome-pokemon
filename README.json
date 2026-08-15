@@ -19,7 +19,7 @@
             "last_commit": "2026-08-11T07:05:24Z",
             "owner": "PokeAPI",
             "repo": "pokeapi",
-            "stars": 5323
+            "stars": 5325
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-01-25T05:22:02Z",
             "owner": "mrcsxsiq",
             "repo": "Kotlin-Pokedex",
-            "stars": 1551
+            "stars": 1552
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:25:37Z",
+            "last_commit": "2026-08-14T18:53:06Z",
             "owner": "tcgdex",
             "repo": "cards-database",
-            "stars": 993
+            "stars": 1004
           }
         },
         {
@@ -204,10 +204,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:05:31Z",
+            "last_commit": "2026-08-14T19:10:54Z",
             "owner": "smogon",
             "repo": "pokemon-showdown",
-            "stars": 5829
+            "stars": 5832
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-08-13T21:56:37Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4877
+            "stars": 4878
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2024-05-07T13:18:49Z",
             "owner": "msikma",
             "repo": "pokesprite",
-            "stars": 1259
+            "stars": 1261
           }
         },
         {
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:11:47.329Z",
+    "last_updated": "2026-08-15T14:43:42.971Z",
     "original_repository": "tobiasbueschel/awesome-pokemon",
     "original_repository_sha": "0b70b83c476f85696577b07c7083eb21f04d2dc8",
     "enhanced_repository": "enhansome/enhansome-pokemon",
