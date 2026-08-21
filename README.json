@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 27534934,
                 "language": "Python",
-                "last_commit": "2026-08-18T12:47:42Z",
+                "last_commit": "2026-08-21T08:39:15Z",
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5336
+                "stars": 5338
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 241652591,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:46:02Z",
+                "last_commit": "2026-08-21T14:29:53Z",
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1014
+                "stars": 1017
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-19T23:52:30Z",
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8351
+                "stars": 8352
               }
             },
             {
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 3038446,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T02:06:15Z",
+                "last_commit": "2026-08-21T01:02:57Z",
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5841
+                "stars": 5845
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2023-12-07T12:57:09Z",
                 "owner": "PokemonGoF",
                 "repo": "PokemonGo-Bot",
-                "stars": 3912
+                "stars": 3913
               }
             },
             {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:59:58.903Z",
+    "last_updated": "2026-08-21T14:58:35.264Z",
     "original_repository": "tobiasbueschel/awesome-pokemon",
     "original_repository_id": 63436470,
     "original_repository_sha": "0b70b83c476f85696577b07c7083eb21f04d2dc8",
