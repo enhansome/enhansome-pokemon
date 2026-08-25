@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 27534934,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:30:49Z",
+                "last_commit": "2026-08-25T06:18:21Z",
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5350
+                "stars": 5351
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-22T23:13:02Z",
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1023
+                "stars": 1026
               }
             },
             {
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 268501098,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T04:56:16Z",
+                "last_commit": "2026-08-25T13:05:15Z",
                 "owner": "skydoves",
                 "repo": "Pokedex",
                 "stars": 8353
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-23T03:34:34Z",
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5853
+                "stars": 5854
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-02-25T14:44:15Z",
                 "owner": "LazoVelko",
                 "repo": "Pokemon-Terminal",
-                "stars": 4794
+                "stars": 4793
               }
             },
             {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:57.423Z",
+    "last_updated": "2026-08-25T15:10:15.910Z",
     "original_repository": "tobiasbueschel/awesome-pokemon",
     "original_repository_id": 63436470,
     "original_repository_sha": "0b70b83c476f85696577b07c7083eb21f04d2dc8",
