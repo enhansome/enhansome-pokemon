@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 27534934,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:18:21Z",
+                "last_commit": "2026-08-26T05:47:35Z",
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5351
+                "stars": 5354
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-22T23:13:02Z",
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1026
+                "stars": 1029
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2017-01-28T11:17:07Z",
                 "owner": "Biuni",
                 "repo": "PokemonGO-Pokedex",
-                "stars": 133
+                "stars": 134
               }
             },
             {
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 3038446,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T03:34:34Z",
+                "last_commit": "2026-08-26T03:28:45Z",
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5854
+                "stars": 5858
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2026-08-13T21:56:37Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4890
+                "stars": 4892
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-02-25T14:44:15Z",
                 "owner": "LazoVelko",
                 "repo": "Pokemon-Terminal",
-                "stars": 4793
+                "stars": 4794
               }
             },
             {
@@ -548,7 +548,7 @@
                 "last_commit": "2024-05-07T13:18:49Z",
                 "owner": "msikma",
                 "repo": "pokesprite",
-                "stars": 1264
+                "stars": 1265
               }
             },
             {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:10:15.910Z",
+    "last_updated": "2026-08-26T15:56:24.766Z",
     "original_repository": "tobiasbueschel/awesome-pokemon",
     "original_repository_id": 63436470,
     "original_repository_sha": "0b70b83c476f85696577b07c7083eb21f04d2dc8",
