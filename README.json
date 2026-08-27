@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T05:47:35Z",
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5358
+                "stars": 5360
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 241652591,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T23:13:02Z",
+                "last_commit": "2026-08-27T16:36:23Z",
                 "owner": "tcgdex",
                 "repo": "cards-database",
                 "stars": 1032
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 268501098,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T13:05:15Z",
+                "last_commit": "2026-08-27T17:06:10Z",
                 "owner": "skydoves",
                 "repo": "Pokedex",
                 "stars": 8353
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 3038446,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:35:06Z",
+                "last_commit": "2026-08-27T18:17:05Z",
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5857
+                "stars": 5858
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2025-08-28T18:15:47Z",
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7896
+                "stars": 7895
               }
             },
             {
@@ -485,10 +485,10 @@
                 "archived": false,
                 "id": 11211886,
                 "language": "Assembly",
-                "last_commit": "2026-08-13T21:56:37Z",
+                "last_commit": "2026-08-27T22:16:48Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4894
+                "stars": 4895
               }
             },
             {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:12.414Z",
+    "last_updated": "2026-08-27T23:49:55.658Z",
     "original_repository_info": {
       "archived": false,
       "id": 63436470,
