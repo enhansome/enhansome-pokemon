@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Pokémon API",
+                "homepage": "https://pokeapi.co",
                 "id": 27534934,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:02:01Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T01:10:32Z",
+                "open_issues": 184,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5361
+                "stars": 5361,
+                "topics": [
+                  "api",
+                  "beginner-friendly",
+                  "graphql",
+                  "hacktoberfest",
+                  "pokeapi",
+                  "pokemon"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -28,12 +40,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation",
+                "homepage": null,
                 "id": 230355242,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2024-01-25T05:22:02Z",
+                "open_issues": 32,
                 "owner": "mrcsxsiq",
                 "repo": "Kotlin-Pokedex",
-                "stars": 1552
+                "stars": 1552,
+                "topics": [
+                  "android",
+                  "architecture-components",
+                  "hacktoberfest",
+                  "koin",
+                  "kotlin",
+                  "livedata",
+                  "navigation",
+                  "room",
+                  "viewbinding",
+                  "viewmodel"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -44,12 +72,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokemon Go API lib",
+                "homepage": null,
                 "id": 63287135,
                 "language": "Protocol Buffer",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-23T21:26:49Z",
+                "open_issues": 76,
                 "owner": "tejado",
                 "repo": "pgoapi",
-                "stars": 1391
+                "stars": 1391,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -60,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokemon Go API",
+                "homepage": null,
                 "id": 63499395,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-12T06:17:03Z",
+                "open_issues": 12,
                 "owner": "Grover-c13",
                 "repo": "PokeGOAPI-Java",
-                "stars": 1045
+                "stars": 1045,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -76,12 +114,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !",
+                "homepage": "https://tcgdex.dev",
                 "id": 241652591,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:53:20Z",
+                "open_issues": 152,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1032
+                "stars": 1033,
+                "topics": [
+                  "bunjs",
+                  "card",
+                  "cards-database",
+                  "database",
+                  "game",
+                  "graphql",
+                  "pokemon",
+                  "tcg",
+                  "tcgdex",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -92,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokemon GO api node.js library",
+                "homepage": null,
                 "id": 63460247,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-27T18:05:29Z",
+                "open_issues": 54,
                 "owner": "Armax",
                 "repo": "Pokemon-GO-node-api",
-                "stars": 876
+                "stars": 876,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -108,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get Pokémon names",
+                "homepage": null,
                 "id": 64159160,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-13T11:06:43Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pokemon",
-                "stars": 508
+                "stars": 508,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -124,12 +188,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get information of a Pokémon with GraphQL!",
+                "homepage": "https://graphql-pokemon.now.sh/",
                 "id": 69925705,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-06T22:36:52Z",
+                "open_issues": 10,
                 "owner": "lucasbento",
                 "repo": "graphql-pokemon",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "graphql",
+                  "koa",
+                  "nodejs",
+                  "react-relay-pokemon",
+                  "relay"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -140,12 +215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Client API Library",
+                "homepage": null,
                 "id": 64019152,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2016-08-16T18:39:03Z",
+                "open_issues": 59,
                 "owner": "FeroxRev",
                 "repo": "Pokemon-Go-Rocket-API",
-                "stars": 359
+                "stars": 359,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -156,12 +236,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐲 Pokédex of Pokémon GO in JSON.",
+                "homepage": null,
                 "id": 63526881,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-01-28T11:17:07Z",
+                "open_issues": 1,
                 "owner": "Biuni",
                 "repo": "PokemonGO-Pokedex",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "json",
+                  "pokedex",
+                  "pokemon"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -172,12 +261,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple to use Pokemon API endpoint that returns Pokemon Data in JSON format.",
+                "homepage": "https://purukitto.github.io/PikaServe",
                 "id": 293429222,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-25T07:57:50Z",
+                "open_issues": 5,
                 "owner": "Purukitto",
                 "repo": "PikaServe",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "complete-pokemon-database",
+                  "database",
+                  "hacktoberfest",
+                  "pokedex",
+                  "pokemon",
+                  "pokemon-api",
+                  "random-pokemon",
+                  "random-retrives",
+                  "rate-limits",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -188,12 +293,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥💧🍃 Pokémon types, including — their weaknesses, strengths and immunities.",
+                "homepage": "https://www.npmjs.com/package/poke-types",
                 "id": 121805650,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T19:04:23Z",
+                "open_issues": 11,
                 "owner": "fbosch",
                 "repo": "poke-types",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "game",
+                  "game-freak",
+                  "module",
+                  "nintendo",
+                  "npm-package",
+                  "package",
+                  "pokemon",
+                  "pokemon-types",
+                  "resource",
+                  "types"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             }
@@ -211,12 +332,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",
+                "homepage": null,
                 "id": 268501098,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:06:10Z",
+                "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8353
+                "stars": 8353,
+                "topics": [
+                  "android",
+                  "coroutines",
+                  "hilt",
+                  "jetpack-android",
+                  "kotlin",
+                  "motion",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "pokedex",
+                  "pokemon",
+                  "skydoves"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -227,12 +365,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokémon battle simulator.",
+                "homepage": "https://pokemonshowdown.com",
                 "id": 3038446,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:25:40Z",
+                "open_issues": 337,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5859
+                "stars": 5860,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -243,12 +388,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PokéMon like game on iOS with Location Based Service.",
+                "homepage": "http://dev.kjuly.com/iPokeMon",
                 "id": 7587789,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-08-26T17:07:19Z",
+                "open_issues": 9,
                 "owner": "Kjuly",
                 "repo": "iPokeMon",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "game",
+                  "ios",
+                  "lbs",
+                  "pokemon"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -259,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Online Pokemon Battle Simulator",
+                "homepage": "http://pokemon-online.eu",
                 "id": 2309028,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-23T22:47:36Z",
+                "open_issues": 14,
                 "owner": "po-devs",
                 "repo": "pokemon-online",
-                "stars": 302
+                "stars": 302,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -275,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Program to help choose moves in the Pokemon Shuffle puzzle game",
+                "homepage": null,
                 "id": 39672097,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-21T19:37:49Z",
+                "open_issues": 13,
                 "owner": "Loreinator",
                 "repo": "Shuffle-Move",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -291,12 +456,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "guess pokemon through their cries",
+                "homepage": "https://fent.github.io/pokecry/",
                 "id": 22832828,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-21T04:57:09Z",
+                "open_issues": 8,
                 "owner": "fent",
                 "repo": "pokecry",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "crying",
+                  "game",
+                  "pokemon"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -307,12 +481,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Can you guess the Pokémon from the silhouette?",
+                "homepage": "https://pokemontrivia.pages.dev/",
                 "id": 503597003,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-15T03:28:36Z",
+                "open_issues": 7,
                 "owner": "serena2341",
                 "repo": "whos-that-pokemon",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "pokeapi",
+                  "pokedex",
+                  "pokemon",
+                  "quiz-game"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             }
@@ -330,12 +514,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Pokemon Go Bot, baking with community.",
+                "homepage": null,
                 "id": 63752974,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-07T12:57:09Z",
+                "open_issues": 172,
                 "owner": "PokemonGoF",
                 "repo": "PokemonGo-Bot",
-                "stars": 3914
+                "stars": 3914,
+                "topics": [
+                  "automation",
+                  "bot",
+                  "docker",
+                  "mqtt",
+                  "pokemon",
+                  "pokemongo",
+                  "pokemongo-bot",
+                  "pokemongof",
+                  "pokestops",
+                  "python",
+                  "script",
+                  "slack",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -346,12 +549,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEFUNCT - Bot that plays Pokemon Go",
+                "homepage": "https://www.pogobot.club/",
                 "id": 63780762,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2019-07-20T11:00:05Z",
+                "open_issues": 104,
                 "owner": "jabbink",
                 "repo": "PokemonGoBot",
-                "stars": 552
+                "stars": 552,
+                "topics": [
+                  "bot",
+                  "cheat",
+                  "kotlin",
+                  "pokemon",
+                  "pokemon-go",
+                  "pokemongo"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -362,12 +577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 64050534,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-26T12:56:47Z",
+                "open_issues": 977,
                 "owner": "finndev",
                 "repo": "PokeBuddy",
-                "stars": 439
+                "stars": 439,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -378,12 +598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bot for having Pokemon battles in Slack.",
+                "homepage": null,
                 "id": 22298488,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-10T16:10:52Z",
+                "open_issues": 8,
                 "owner": "rvinluan",
                 "repo": "slack-pokemon",
-                "stars": 342
+                "stars": 342,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -394,12 +619,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The original Pokemon Go bot",
+                "homepage": null,
                 "id": 63714996,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-19T22:22:46Z",
+                "open_issues": 55,
                 "owner": "jekirl",
                 "repo": "poketrainer",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -410,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A bot mimicking Twitch Plays Pokemon",
+                "homepage": null,
                 "id": 16978099,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-04-27T05:45:45Z",
+                "open_issues": 1,
                 "owner": "sunshinekitty",
                 "repo": "TwitchPlaysPokemon",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -426,12 +661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Get Slack messages posted to a #pokealert channel about rare Pokemon close to you",
+                "homepage": null,
                 "id": 63981067,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-08-10T05:41:57Z",
+                "open_issues": 17,
                 "owner": "timwah",
                 "repo": "pokeslack",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -442,12 +682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a bot that farms for Pokestops and Pokemon and super easy to level up.",
+                "homepage": null,
                 "id": 63848959,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-02T16:51:24Z",
+                "open_issues": 2,
                 "owner": "Hrithikd",
                 "repo": "Pokemon-Go-Farm-API",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -458,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🔧 Simply build your Pokemon Go Bot",
+                "homepage": "https://pogo.bot-builder.xyz/",
                 "id": 66085247,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2016-08-30T08:44:52Z",
+                "open_issues": 5,
                 "owner": "shilch",
                 "repo": "pogobot-builder",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -474,12 +724,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PokeWP not just about bot but scanner map and notifications pokemon",
+                "homepage": "https://tool.siakbary.my.id/p/pokewp.html",
                 "id": 73547059,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2018-02-17T05:34:14Z",
+                "open_issues": 5,
                 "owner": "akbaryahya",
                 "repo": "PokeWP",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bot",
+                  "map",
+                  "pogo",
+                  "pokemon"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             }
@@ -497,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playing Pokemon Red with Reinforcement Learning",
+                "homepage": null,
                 "id": 230064796,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-08-28T18:15:47Z",
+                "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7896
+                "stars": 7896,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -513,12 +778,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Disassembly of Pokémon Red/Blue",
+                "homepage": null,
                 "id": 11211886,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2026-08-27T22:16:48Z",
+                "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4894
+                "stars": 4894,
+                "topics": [
+                  "disassembly",
+                  "gameboy",
+                  "gbz80",
+                  "pokemon",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -529,12 +805,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokemon terminal themes.",
+                "homepage": null,
                 "id": 88655352,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-25T14:44:15Z",
+                "open_issues": 47,
                 "owner": "LazoVelko",
                 "repo": "Pokemon-Terminal",
-                "stars": 4794
+                "stars": 4794,
+                "topics": [
+                  "bash",
+                  "iterm2",
+                  "linux",
+                  "pikachu",
+                  "pokemon",
+                  "pokemon-terminal",
+                  "style",
+                  "terminal",
+                  "terminology",
+                  "theme",
+                  "tilix"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -545,12 +838,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Disassembly of Pokémon Crystal",
+                "homepage": "https://pret.github.io/pokecrystal/",
                 "id": 4058868,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2026-08-28T22:06:49Z",
+                "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2494
+                "stars": 2494,
+                "topics": [
+                  "disassembly",
+                  "gameboy-color",
+                  "gbz80",
+                  "pokemon",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -561,12 +865,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "play pokemon go safely or at unavailable area",
+                "homepage": null,
                 "id": 62854365,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2023-11-03T02:28:27Z",
+                "open_issues": 35,
                 "owner": "kahopoon",
                 "repo": "Pokemon-Go-Controller",
-                "stars": 2463
+                "stars": 2463,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -577,12 +886,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Database project of box and inventory sprites from the Pokémon core series games",
+                "homepage": "https://msikma.github.io/pokesprite/",
                 "id": 22895312,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-07T13:18:49Z",
+                "open_issues": 22,
                 "owner": "msikma",
                 "repo": "pokesprite",
-                "stars": 1266
+                "stars": 1266,
+                "topics": [
+                  "icons",
+                  "pokedex",
+                  "pokemon",
+                  "sprites"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -593,12 +912,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tailor-made Pokémon themes for your Hyper terminal",
+                "homepage": "https://klaudiosinani.com/hyper-pokemon",
                 "id": 93972303,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-23T02:37:25Z",
+                "open_issues": 20,
                 "owner": "klaudiosinani",
                 "repo": "hyper-pokemon",
-                "stars": 1246
+                "stars": 1246,
+                "topics": [
+                  "hyper",
+                  "pikachu",
+                  "pokemon",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -609,12 +938,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":video_game: Pokemon MMO engine with realtime editor",
+                "homepage": "http://maierfelix.github.io/PokeMMO/?debug_mode=true&bgm=false",
                 "id": 49640787,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-08-12T16:12:09Z",
+                "open_issues": 12,
                 "owner": "maierfelix",
                 "repo": "PokeMMO",
-                "stars": 760
+                "stars": 760,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -625,12 +959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MITM data analysis utility for Pokemon GO",
+                "homepage": null,
                 "id": 63644333,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-07-31T09:16:12Z",
+                "open_issues": 64,
                 "owner": "justinleewells",
                 "repo": "pogo-optimizer",
-                "stars": 498
+                "stars": 498,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -641,12 +980,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🎁  Pokemon Go MITM Proxy -  Intercepts the traffic between your Pokemon Go app and their servers, decodes the protocol and gives you a handy tool to enrich your own game experience on the fly.",
+                "homepage": null,
                 "id": 63546665,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-09-06T00:32:25Z",
+                "open_issues": 21,
                 "owner": "rastapasta",
                 "repo": "pokemon-go-mitm",
-                "stars": 487
+                "stars": 487,
+                "topics": [
+                  "coffeescript",
+                  "javascript",
+                  "man-in-the-middle",
+                  "mitm",
+                  "mitmproxy",
+                  "pokemon",
+                  "pokemon-go"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -657,12 +1009,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slack Pokemon Emojis",
+                "homepage": null,
                 "id": 63213693,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-04-11T14:51:21Z",
+                "open_issues": 3,
                 "owner": "Templarian",
                 "repo": "slack-emoji-pokemon",
-                "stars": 390
+                "stars": 390,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -673,12 +1030,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools for building and disassembling Pokémon Red and Pokémon Crystal",
+                "homepage": null,
                 "id": 11867626,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-16T23:41:38Z",
+                "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokemon-reverse-engineering-tools",
-                "stars": 353
+                "stars": 353,
+                "topics": [
+                  "disassembly",
+                  "pokemon",
+                  "python",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -689,12 +1056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web component to display Pokémon.",
+                "homepage": null,
                 "id": 13642695,
                 "language": "HTML",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-10-02T06:54:33Z",
+                "open_issues": 3,
                 "owner": "passy",
                 "repo": "x-pokemon",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -705,12 +1077,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Automatically renames your pokemon to their IV stats.",
+                "homepage": null,
                 "id": 64262014,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-04-07T22:36:12Z",
+                "open_issues": 0,
                 "owner": "Boren",
                 "repo": "pokemongo-iv-renamer",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -721,12 +1098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get Pokémon names",
+                "homepage": null,
                 "id": 64159926,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-29T14:38:34Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pokemon-cli",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -737,12 +1119,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":warning: DEPRECATED - LOOK README :warning: This repository is collection of the decoded GAME_MASTER-protobuf files",
+                "homepage": null,
                 "id": 83597087,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-07-11T08:05:09Z",
+                "open_issues": 1,
                 "owner": "BrunnerLivio",
                 "repo": "deprecated-pokemongo-game-master",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "game-master",
+                  "json",
+                  "pokemongo",
+                  "protobuf"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -753,12 +1145,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alfred 3 workflow to lookup information about Pokemon",
+                "homepage": "http://packal.org/workflow/alfred-pokedex",
                 "id": 64090203,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-09-09T17:43:26Z",
+                "open_issues": 0,
                 "owner": "vutran",
                 "repo": "alfred-pokedex",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "alfred",
+                  "pokedex",
+                  "pokemon",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -769,12 +1171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to upload all the pokemon to slack emoji.",
+                "homepage": null,
                 "id": 63783626,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-20T19:49:44Z",
+                "open_issues": 0,
                 "owner": "fraserxu",
                 "repo": "slack-pokemon-emoji",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -785,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Play Pokémon GO from your Genymotion device",
+                "homepage": null,
                 "id": 65184569,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-25T20:46:51Z",
+                "open_issues": 1,
                 "owner": "jlobos",
                 "repo": "pokemongo-genymotion",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -801,12 +1213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokemon Go CLI Tools for getting IVs, transferring Pokemon, evolving Pokemon and trashing items",
+                "homepage": null,
                 "id": 64610671,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-12-26T15:20:15Z",
+                "open_issues": 0,
                 "owner": "nelsyeung",
                 "repo": "PoGoTools",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             }
@@ -830,12 +1247,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Electron App around PokemonGo-Map",
+                "homepage": "https://pokemon-go-updater.mike.ai/download",
                 "id": 63730796,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-04-29T21:41:18Z",
+                "open_issues": 0,
                 "owner": "mchristopher",
                 "repo": "PokemonGo-DesktopMap",
-                "stars": 1747
+                "stars": 1747,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -846,12 +1268,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A native Android client to map the Pokemon around you!",
+                "homepage": "http://pokemapgo.xyz/",
                 "id": 63752344,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2021-11-04T09:05:44Z",
+                "open_issues": 45,
                 "owner": "omkarmoghe",
                 "repo": "Pokemap",
-                "stars": 1005
+                "stars": 1005,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -862,12 +1289,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native iOS client to map the Pokemon around you!",
+                "homepage": "https://github.com/RocketMap/RocketMap",
                 "id": 63885665,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2022-09-04T11:48:34Z",
+                "open_issues": 53,
                 "owner": "istornz",
                 "repo": "iPokeGo",
-                "stars": 640
+                "stars": 640,
+                "topics": [
+                  "ios",
+                  "notifications",
+                  "objective-c",
+                  "pokemon",
+                  "pokemongo-map",
+                  "pokestops",
+                  "rocketmap"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -878,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display pokemon nearby to your location on a map.",
+                "homepage": null,
                 "id": 63506581,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-07-22T18:56:35Z",
+                "open_issues": 10,
                 "owner": "emeth-",
                 "repo": "pokelocater",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             }
@@ -901,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offline-capable Pokédex web site (unmaintained)",
+                "homepage": "https://www.pokedex.org",
                 "id": 44920749,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-14T22:26:21Z",
+                "open_issues": 49,
                 "owner": "nolanlawson",
                 "repo": "pokedex.org",
-                "stars": 2276
+                "stars": 2276,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -917,12 +1367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "more than you ever wanted to know about Pokémon",
+                "homepage": null,
                 "id": 2596276,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-21T12:49:22Z",
+                "open_issues": 145,
                 "owner": "veekun",
                 "repo": "pokedex",
-                "stars": 1525
+                "stars": 1525,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             }
@@ -936,15 +1391,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:02.691Z",
+    "last_updated": "2026-08-29T04:38:01.959Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
+      "homepage": null,
       "id": 63436470,
       "language": null,
+      "license": null,
       "last_commit": "2024-11-11T03:17:16Z",
+      "open_issues": 14,
       "owner": "tobiasbueschel",
       "repo": "awesome-pokemon",
-      "stars": 702
+      "stars": 702,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game",
+        "list",
+        "pokemon",
+        "pokemongo"
+      ]
     },
     "original_repository_sha": "0b70b83c476f85696577b07c7083eb21f04d2dc8",
     "enhanced_repository": "enhansome/enhansome-pokemon",
