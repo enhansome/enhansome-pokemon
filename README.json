@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-29T14:02:11Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5362,
+                "stars": 5363,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -119,11 +119,11 @@
                 "id": 241652591,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T13:53:20Z",
-                "open_issues": 150,
+                "last_commit": "2026-08-29T18:25:24Z",
+                "open_issues": 147,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1034,
+                "stars": 1036,
                 "topics": [
                   "bunjs",
                   "card",
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8353,
+                "stars": 8354,
                 "topics": [
                   "android",
                   "coroutines",
@@ -371,7 +371,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-29T11:18:48Z",
-                "open_issues": 337,
+                "open_issues": 339,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
                 "stars": 5861,
@@ -523,7 +523,7 @@
                 "open_issues": 172,
                 "owner": "PokemonGoF",
                 "repo": "PokemonGo-Bot",
-                "stars": 3914,
+                "stars": 3915,
                 "topics": [
                   "automation",
                   "bot",
@@ -691,7 +691,7 @@
                 "open_issues": 2,
                 "owner": "Hrithikd",
                 "repo": "Pokemon-Go-Farm-API",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7897,
+                "stars": 7898,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -895,7 +895,7 @@
                 "open_issues": 22,
                 "owner": "msikma",
                 "repo": "pokesprite",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "icons",
                   "pokedex",
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:45:36.224Z",
+    "last_updated": "2026-08-30T18:05:44.952Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
