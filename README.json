@@ -17,11 +17,11 @@
                 "id": 27534934,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-02T14:42:13Z",
-                "open_issues": 153,
+                "last_commit": "2026-09-03T19:01:48Z",
+                "open_issues": 150,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5370,
+                "stars": 5371,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -81,8 +81,40 @@
                 "open_issues": 76,
                 "owner": "tejado",
                 "repo": "pgoapi",
-                "stars": 1391,
+                "stars": 1390,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T23:35:02.691Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TCGdex",
+              "description": "Multi languages Pokémon TCG API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !",
+                "homepage": "https://tcgdex.dev",
+                "id": 241652591,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-03T15:19:08Z",
+                "open_issues": 147,
+                "owner": "tcgdex",
+                "repo": "cards-database",
+                "stars": 1046,
+                "topics": [
+                  "bunjs",
+                  "card",
+                  "cards-database",
+                  "database",
+                  "game",
+                  "graphql",
+                  "pokemon",
+                  "tcg",
+                  "tcgdex",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -104,38 +136,6 @@
                 "repo": "PokeGOAPI-Java",
                 "stars": 1045,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:35:02.691Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TCGdex",
-              "description": "Multi languages Pokémon TCG API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !",
-                "homepage": "https://tcgdex.dev",
-                "id": 241652591,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-03T15:19:08Z",
-                "open_issues": 144,
-                "owner": "tcgdex",
-                "repo": "cards-database",
-                "stars": 1045,
-                "topics": [
-                  "bunjs",
-                  "card",
-                  "cards-database",
-                  "database",
-                  "game",
-                  "graphql",
-                  "pokemon",
-                  "tcg",
-                  "tcgdex",
-                  "trading"
-                ]
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
             },
@@ -371,10 +371,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-02T09:47:49Z",
-                "open_issues": 331,
+                "open_issues": 333,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5867,
+                "stars": 5869,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -423,7 +423,7 @@
                 "open_issues": 14,
                 "owner": "po-devs",
                 "repo": "pokemon-online",
-                "stars": 302,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -523,7 +523,7 @@
                 "open_issues": 172,
                 "owner": "PokemonGoF",
                 "repo": "PokemonGo-Bot",
-                "stars": 3917,
+                "stars": 3918,
                 "topics": [
                   "automation",
                   "bot",
@@ -787,7 +787,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4904,
+                "stars": 4909,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -968,7 +968,7 @@
                 "open_issues": 64,
                 "owner": "justinleewells",
                 "repo": "pogo-optimizer",
-                "stars": 498,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:54:49.264Z",
+    "last_updated": "2026-09-04T17:40:16.393Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
