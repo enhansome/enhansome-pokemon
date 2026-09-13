@@ -21,7 +21,7 @@
                 "open_issues": 146,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5373,
+                "stars": 5374,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -102,7 +102,7 @@
                 "open_issues": 130,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1061,
+                "stars": 1063,
                 "topics": [
                   "bunjs",
                   "card",
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8361,
+                "stars": 8360,
                 "topics": [
                   "android",
                   "coroutines",
@@ -371,10 +371,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-12T16:55:00Z",
-                "open_issues": 328,
+                "open_issues": 329,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5888,
+                "stars": 5890,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -523,7 +523,7 @@
                 "open_issues": 173,
                 "owner": "PokemonGoF",
                 "repo": "PokemonGo-Bot",
-                "stars": 3920,
+                "stars": 3921,
                 "topics": [
                   "automation",
                   "bot",
@@ -787,7 +787,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4915,
+                "stars": 4916,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -1018,7 +1018,7 @@
                 "open_issues": 3,
                 "owner": "Templarian",
                 "repo": "slack-emoji-pokemon",
-                "stars": 390,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 145,
                 "owner": "veekun",
                 "repo": "pokedex",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:17:06.918Z",
+    "last_updated": "2026-09-13T17:27:49.218Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
