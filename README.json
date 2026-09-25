@@ -17,8 +17,8 @@
                 "id": 27534934,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T13:25:17Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-25T17:35:49Z",
+                "open_issues": 137,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
                 "stars": 5385,
@@ -98,11 +98,11 @@
                 "id": 241652591,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T14:25:43Z",
+                "last_commit": "2026-09-25T10:53:35Z",
                 "open_issues": 139,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1088,
+                "stars": 1092,
                 "topics": [
                   "bunjs",
                   "card",
@@ -337,7 +337,7 @@
                 "id": 268501098,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T02:02:12Z",
+                "last_commit": "2026-09-25T12:08:26Z",
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7907,
+                "stars": 7906,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -787,7 +787,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4941,
+                "stars": 4942,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -814,7 +814,7 @@
                 "open_issues": 46,
                 "owner": "LazoVelko",
                 "repo": "Pokemon-Terminal",
-                "stars": 4805,
+                "stars": 4804,
                 "topics": [
                   "bash",
                   "iterm2",
@@ -844,10 +844,10 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-09-23T02:02:55Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2505,
+                "stars": 2506,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -874,7 +874,7 @@
                 "open_issues": 35,
                 "owner": "kahopoon",
                 "repo": "Pokemon-Go-Controller",
-                "stars": 2461,
+                "stars": 2462,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1355,7 +1355,7 @@
                 "open_issues": 49,
                 "owner": "nolanlawson",
                 "repo": "pokedex.org",
-                "stars": 2273,
+                "stars": 2272,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:28:07.547Z",
+    "last_updated": "2026-09-25T18:44:18.874Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
