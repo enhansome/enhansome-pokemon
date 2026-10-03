@@ -59,7 +59,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Apps
 
 * [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,363 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-25 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
-* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,930 | 🐛 317 | 🌐 TypeScript | 📅 2026-10-02 - Pokémon battle simulator.
+* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,931 | 🐛 318 | 🌐 TypeScript | 📅 2026-10-02 - Pokémon battle simulator.
 * [iPokeMon](https://github.com/Kjuly/iPokeMon) ⭐ 422 | 🐛 9 | 🌐 Objective-C | 📅 2016-08-26 - Pokémon like game on iOS with Location Based Service.
 * [pokemon-online](https://github.com/po-devs/pokemon-online) ⭐ 302 | 🐛 14 | 🌐 C++ | 📅 2025-03-23 - Online Pokémon Battle Simulator.
 * [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) ⭐ 98 | 🐛 13 | 🌐 Java | 📅 2020-09-21 - A program to identify and display the best next move for the game Pokémon Shuffle.
@@ -81,12 +81,12 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Miscellaneous
 
-* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,909 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
-* [pokered](https://github.com/pret/pokered) ⭐ 4,965 | 🐛 22 | 🌐 Assembly | 📅 2026-09-22 - Disassembly of Pokémon Red/Blue.
-* [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,803 | 🐛 46 | 🌐 Python | 📅 2026-02-25 - Pokémon terminal themes for iTerm2.
-* [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,514 | 🐛 57 | 🌐 Assembly | 📅 2026-09-29 - Disassembly of Pokémon Crystal.
+* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,910 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
+* [pokered](https://github.com/pret/pokered) ⭐ 4,967 | 🐛 22 | 🌐 Assembly | 📅 2026-09-22 - Disassembly of Pokémon Red/Blue.
+* [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,804 | 🐛 46 | 🌐 Python | 📅 2026-02-25 - Pokémon terminal themes for iTerm2.
+* [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,513 | 🐛 57 | 🌐 Assembly | 📅 2026-09-29 - Disassembly of Pokémon Crystal.
 * [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) ⭐ 2,461 | 🐛 35 | 🌐 Swift | 📅 2023-11-03 - Play Pokémon GO safely or at unavailable area.
-* [pokesprite](https://github.com/msikma/pokesprite) ⭐ 1,284 | 🐛 22 | 🌐 Python | 📅 2024-05-07 - Database of Pokémon sprites from the core series games, including custom shiny versions.
+* [pokesprite](https://github.com/msikma/pokesprite) ⭐ 1,285 | 🐛 22 | 🌐 Python | 📅 2024-05-07 - Database of Pokémon sprites from the core series games, including custom shiny versions.
 * [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) ⭐ 1,247 | 🐛 20 | 🌐 JavaScript | 📅 2026-03-23 - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
 * [PokeMMO](https://github.com/maierfelix/PokeMMO) ⭐ 762 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-12 - WebGL Pokémon MMO Engine with Realtime Editor.
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) ⭐ 497 | 🐛 64 | 🌐 JavaScript | 📅 2016-07-31 - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
@@ -145,7 +145,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Wiki
 
 * [Pokedex.org](https://github.com/nolanlawson/pokedex.org) ⭐ 2,269 | 🐛 49 | 🌐 JavaScript | 📅 2023-05-14 - Offline-capable Pokédex web site <https://pokedex.org>.
-* [Pokedex](https://github.com/veekun/pokedex) ⭐ 1,526 | 🐛 145 | 🌐 Python | 📅 2022-07-21 - More than you ever wanted to know about Pokémon.
+* [Pokedex](https://github.com/veekun/pokedex) ⭐ 1,527 | 🐛 145 | 🌐 Python | 📅 2022-07-21 - More than you ever wanted to know about Pokémon.
 * [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 * [Pokémon GO Wiki](https://pkmngowiki.com/)
 * [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
