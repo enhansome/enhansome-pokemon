@@ -43,10 +43,10 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### APIs
 
-* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,391 | 🐛 140 | 🌐 Python | 📅 2026-09-30 - A RESTful API for Pokémon (<http://pokeapi.co/>).
+* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,392 | 🐛 141 | 🌐 Python | 📅 2026-09-30 - A RESTful API for Pokémon (<http://pokeapi.co/>).
 * [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) ⭐ 1,551 | 🐛 33 | 🌐 Kotlin | 📅 2024-01-25 - Pokedex app built with Kotlin.
 * [pgoapi](https://github.com/tejado/pgoapi) ⭐ 1,390 | 🐛 76 | 🌐 Protocol Buffer | 📅 2022-09-23 - Pokémon GO API lib/demo.
-* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,106 | 🐛 144 | 🌐 TypeScript | 📅 2026-09-30 - Multi languages Pokémon TCG API.
+* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,109 | 🐛 147 | 🌐 TypeScript | 📅 2026-09-30 - Multi languages Pokémon TCG API.
 * [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) ⭐ 1,045 | 🐛 12 | 🌐 Java | 📅 2021-11-12 - Pokémon GO API for Java.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) ⭐ 875 | 🐛 54 | 🌐 JavaScript | 📅 2019-05-27 - Pokémon GO API Node.js library.
 * [Pokemon Name API](https://github.com/sindresorhus/pokemon) ⭐ 508 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-13 - Get a list of Pokémon names in JSON.
@@ -58,8 +58,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Apps
 
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,363 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-25 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
-* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,931 | 🐛 318 | 🌐 TypeScript | 📅 2026-10-02 - Pokémon battle simulator.
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,362 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-25 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,934 | 🐛 321 | 🌐 TypeScript | 📅 2026-10-03 - Pokémon battle simulator.
 * [iPokeMon](https://github.com/Kjuly/iPokeMon) ⭐ 422 | 🐛 9 | 🌐 Objective-C | 📅 2016-08-26 - Pokémon like game on iOS with Location Based Service.
 * [pokemon-online](https://github.com/po-devs/pokemon-online) ⭐ 302 | 🐛 14 | 🌐 C++ | 📅 2025-03-23 - Online Pokémon Battle Simulator.
 * [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) ⭐ 98 | 🐛 13 | 🌐 Java | 📅 2020-09-21 - A program to identify and display the best next move for the game Pokémon Shuffle.
@@ -68,7 +68,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Bots
 
-* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) ⭐ 3,926 | 🐛 173 | 🌐 Python | 📅 2023-12-07 - The Pokémon GO bot script, baking with community.
+* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) ⭐ 3,925 | 🐛 173 | 🌐 Python | 📅 2023-12-07 - The Pokémon GO bot script, baking with community.
 * [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) ⚠️ Archived - Bot that plays Pokémon GO.
 * [PokeBuddy](https://github.com/finndev/PokeBuddy) ⭐ 440 | 🐛 977 | 📅 2020-07-26 - A Pokémon GO bot.
 * [slack-pokemon](https://github.com/rvinluan/slack-pokemon) ⭐ 342 | 🐛 8 | 🌐 JavaScript | 📅 2017-05-10 - A bot for having Pokémon battles in Slack.
@@ -81,7 +81,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Miscellaneous
 
-* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,910 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
+* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,911 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
 * [pokered](https://github.com/pret/pokered) ⭐ 4,967 | 🐛 22 | 🌐 Assembly | 📅 2026-09-22 - Disassembly of Pokémon Red/Blue.
 * [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,804 | 🐛 46 | 🌐 Python | 📅 2026-02-25 - Pokémon terminal themes for iTerm2.
 * [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,513 | 🐛 57 | 🌐 Assembly | 📅 2026-09-29 - Disassembly of Pokémon Crystal.
@@ -145,7 +145,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Wiki
 
 * [Pokedex.org](https://github.com/nolanlawson/pokedex.org) ⭐ 2,269 | 🐛 49 | 🌐 JavaScript | 📅 2023-05-14 - Offline-capable Pokédex web site <https://pokedex.org>.
-* [Pokedex](https://github.com/veekun/pokedex) ⭐ 1,527 | 🐛 145 | 🌐 Python | 📅 2022-07-21 - More than you ever wanted to know about Pokémon.
+* [Pokedex](https://github.com/veekun/pokedex) ⭐ 1,528 | 🐛 145 | 🌐 Python | 📅 2022-07-21 - More than you ever wanted to know about Pokémon.
 * [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 * [Pokémon GO Wiki](https://pkmngowiki.com/)
 * [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
@@ -173,4 +173,4 @@ To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
