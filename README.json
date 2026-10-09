@@ -17,7 +17,7 @@
                 "id": 27534934,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-07T13:50:40Z",
+                "last_commit": "2026-10-09T13:39:57Z",
                 "open_issues": 139,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
@@ -99,10 +99,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-06T12:28:31Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1118,
+                "stars": 1121,
                 "topics": [
                   "bunjs",
                   "card",
@@ -337,7 +337,7 @@
                 "id": 268501098,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T22:48:43Z",
+                "last_commit": "2026-10-09T02:01:32Z",
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
@@ -370,11 +370,11 @@
                 "id": 3038446,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:03:59Z",
-                "open_issues": 320,
+                "last_commit": "2026-10-09T19:33:54Z",
+                "open_issues": 319,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5939,
+                "stars": 5944,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -847,7 +847,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2516,
+                "stars": 2517,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:59:50.464Z",
+    "last_updated": "2026-10-09T19:34:57.590Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
