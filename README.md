@@ -43,10 +43,10 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### APIs
 
-* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,404 | 🐛 144 | 🌐 Python | 📅 2026-10-13 - A RESTful API for Pokémon (<http://pokeapi.co/>).
+* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,407 | 🐛 143 | 🌐 Python | 📅 2026-10-16 - A RESTful API for Pokémon (<http://pokeapi.co/>).
 * [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) ⭐ 1,552 | 🐛 32 | 🌐 Kotlin | 📅 2024-01-25 - Pokedex app built with Kotlin.
 * [pgoapi](https://github.com/tejado/pgoapi) ⭐ 1,388 | 🐛 76 | 🌐 Protocol Buffer | 📅 2022-09-23 - Pokémon GO API lib/demo.
-* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,138 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-06 - Multi languages Pokémon TCG API.
+* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,139 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-06 - Multi languages Pokémon TCG API.
 * [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) ⭐ 1,045 | 🐛 12 | 🌐 Java | 📅 2021-11-12 - Pokémon GO API for Java.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) ⭐ 876 | 🐛 54 | 🌐 JavaScript | 📅 2019-05-27 - Pokémon GO API Node.js library.
 * [Pokemon Name API](https://github.com/sindresorhus/pokemon) ⭐ 508 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-13 - Get a list of Pokémon names in JSON.
@@ -58,8 +58,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Apps
 
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,367 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-09 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
-* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,960 | 🐛 328 | 🌐 TypeScript | 📅 2026-10-13 - Pokémon battle simulator.
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,368 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-09 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,964 | 🐛 328 | 🌐 TypeScript | 📅 2026-10-16 - Pokémon battle simulator.
 * [iPokeMon](https://github.com/Kjuly/iPokeMon) ⭐ 421 | 🐛 9 | 🌐 Objective-C | 📅 2016-08-26 - Pokémon like game on iOS with Location Based Service.
 * [pokemon-online](https://github.com/po-devs/pokemon-online) ⭐ 302 | 🐛 14 | 🌐 C++ | 📅 2025-03-23 - Online Pokémon Battle Simulator.
 * [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) ⭐ 99 | 🐛 13 | 🌐 Java | 📅 2020-09-21 - A program to identify and display the best next move for the game Pokémon Shuffle.
@@ -68,7 +68,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Bots
 
-* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) ⭐ 3,925 | 🐛 173 | 🌐 Python | 📅 2023-12-07 - The Pokémon GO bot script, baking with community.
+* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) ⭐ 3,926 | 🐛 173 | 🌐 Python | 📅 2023-12-07 - The Pokémon GO bot script, baking with community.
 * [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) ⚠️ Archived - Bot that plays Pokémon GO.
 * [PokeBuddy](https://github.com/finndev/PokeBuddy) ⭐ 440 | 🐛 977 | 📅 2020-07-26 - A Pokémon GO bot.
 * [slack-pokemon](https://github.com/rvinluan/slack-pokemon) ⭐ 341 | 🐛 8 | 🌐 JavaScript | 📅 2017-05-10 - A bot for having Pokémon battles in Slack.
@@ -82,13 +82,13 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Miscellaneous
 
 * [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,917 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
-* [pokered](https://github.com/pret/pokered) ⭐ 4,990 | 🐛 22 | 🌐 Assembly | 📅 2026-10-06 - Disassembly of Pokémon Red/Blue.
+* [pokered](https://github.com/pret/pokered) ⭐ 4,996 | 🐛 22 | 🌐 Assembly | 📅 2026-10-06 - Disassembly of Pokémon Red/Blue.
 * [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,807 | 🐛 46 | 🌐 Python | 📅 2026-02-25 - Pokémon terminal themes for iTerm2.
-* [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,527 | 🐛 57 | 🌐 Assembly | 📅 2026-10-06 - Disassembly of Pokémon Crystal.
+* [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,528 | 🐛 57 | 🌐 Assembly | 📅 2026-10-06 - Disassembly of Pokémon Crystal.
 * [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) ⭐ 2,462 | 🐛 35 | 🌐 Swift | 📅 2023-11-03 - Play Pokémon GO safely or at unavailable area.
 * [pokesprite](https://github.com/msikma/pokesprite) ⭐ 1,290 | 🐛 22 | 🌐 Python | 📅 2024-05-07 - Database of Pokémon sprites from the core series games, including custom shiny versions.
 * [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) ⭐ 1,248 | 🐛 20 | 🌐 JavaScript | 📅 2026-03-23 - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
-* [PokeMMO](https://github.com/maierfelix/PokeMMO) ⭐ 762 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-12 - WebGL Pokémon MMO Engine with Realtime Editor.
+* [PokeMMO](https://github.com/maierfelix/PokeMMO) ⭐ 763 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-12 - WebGL Pokémon MMO Engine with Realtime Editor.
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) ⭐ 497 | 🐛 64 | 🌐 JavaScript | 📅 2016-07-31 - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
 * [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) ⚠️ Archived - Pokémon GO MITM Proxy.
 * [slack-emoji-pokemon](https://github.com/Templarian/slack-emoji-pokemon) ⭐ 391 | 🐛 3 | 🌐 JavaScript | 📅 2022-04-11 - A list of Pokémon emojis for Slack.
@@ -145,7 +145,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Wiki
 
 * [Pokedex.org](https://github.com/nolanlawson/pokedex.org) ⭐ 2,271 | 🐛 49 | 🌐 JavaScript | 📅 2023-05-14 - Offline-capable Pokédex web site <https://pokedex.org>.
-* [Pokedex](https://github.com/veekun/pokedex) ⭐ 1,527 | 🐛 145 | 🌐 Python | 📅 2022-07-21 - More than you ever wanted to know about Pokémon.
+* [Pokedex](https://github.com/veekun/pokedex) ⭐ 1,528 | 🐛 145 | 🌐 Python | 📅 2022-07-21 - More than you ever wanted to know about Pokémon.
 * [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 * [Pokémon GO Wiki](https://pkmngowiki.com/)
 * [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
@@ -173,4 +173,4 @@ To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
