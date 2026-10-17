@@ -21,7 +21,7 @@
                 "open_issues": 143,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5407,
+                "stars": 5410,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -98,11 +98,11 @@
                 "id": 241652591,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T12:28:31Z",
-                "open_issues": 157,
+                "last_commit": "2026-10-16T19:58:20Z",
+                "open_issues": 161,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1139,
+                "stars": 1140,
                 "topics": [
                   "bunjs",
                   "card",
@@ -134,7 +134,7 @@
                 "open_issues": 12,
                 "owner": "Grover-c13",
                 "repo": "PokeGOAPI-Java",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -370,11 +370,11 @@
                 "id": 3038446,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T12:43:55Z",
+                "last_commit": "2026-10-17T05:35:54Z",
                 "open_issues": 328,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5964,
+                "stars": 5966,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -787,7 +787,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4996,
+                "stars": 4999,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -844,10 +844,10 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-10-06T17:56:31Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2528,
+                "stars": 2531,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:11:40.297Z",
+    "last_updated": "2026-10-17T17:20:10.229Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
