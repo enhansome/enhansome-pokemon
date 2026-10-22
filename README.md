@@ -43,7 +43,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### APIs
 
-* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,421 | 🐛 141 | 🌐 Python | 📅 2026-10-20 - A RESTful API for Pokémon (<http://pokeapi.co/>).
+* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,425 | 🐛 141 | 🌐 Python | 📅 2026-10-20 - A RESTful API for Pokémon (<http://pokeapi.co/>).
 * [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) ⭐ 1,551 | 🐛 32 | 🌐 Kotlin | 📅 2024-01-25 - Pokedex app built with Kotlin.
 * [pgoapi](https://github.com/tejado/pgoapi) ⭐ 1,388 | 🐛 76 | 🌐 Protocol Buffer | 📅 2022-09-23 - Pokémon GO API lib/demo.
 * [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,145 | 🐛 151 | 🌐 TypeScript | 📅 2026-10-19 - Multi languages Pokémon TCG API.
@@ -58,20 +58,20 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Apps
 
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,371 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-20 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
-* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,982 | 🐛 327 | 🌐 TypeScript | 📅 2026-10-21 - Pokémon battle simulator.
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,372 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-22 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,984 | 🐛 327 | 🌐 TypeScript | 📅 2026-10-22 - Pokémon battle simulator.
 * [iPokeMon](https://github.com/Kjuly/iPokeMon) ⭐ 421 | 🐛 9 | 🌐 Objective-C | 📅 2016-08-26 - Pokémon like game on iOS with Location Based Service.
 * [pokemon-online](https://github.com/po-devs/pokemon-online) ⭐ 302 | 🐛 14 | 🌐 C++ | 📅 2025-03-23 - Online Pokémon Battle Simulator.
 * [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) ⭐ 99 | 🐛 13 | 🌐 Java | 📅 2020-09-21 - A program to identify and display the best next move for the game Pokémon Shuffle.
-* [pokecry](https://github.com/fent/pokecry) ⭐ 11 | 🐛 8 | 🌐 JavaScript | 📅 2025-10-21 - Guess Pokémon from their cry.
+* [pokecry](https://github.com/fent/pokecry) ⭐ 11 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-22 - Guess Pokémon from their cry.
 * [Who's That Pokémon?](https://github.com/serena2341/whos-that-pokemon) ⭐ 6 | 🐛 7 | 🌐 HTML | 📅 2022-06-15 - Guess Pokémon from their silhouette.
 
 #### Bots
 
-* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) ⭐ 3,924 | 🐛 173 | 🌐 Python | 📅 2023-12-07 - The Pokémon GO bot script, baking with community.
+* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) ⭐ 3,925 | 🐛 173 | 🌐 Python | 📅 2023-12-07 - The Pokémon GO bot script, baking with community.
 * [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) ⚠️ Archived - Bot that plays Pokémon GO.
 * [PokeBuddy](https://github.com/finndev/PokeBuddy) ⭐ 440 | 🐛 977 | 📅 2020-07-26 - A Pokémon GO bot.
-* [slack-pokemon](https://github.com/rvinluan/slack-pokemon) ⭐ 341 | 🐛 8 | 🌐 JavaScript | 📅 2017-05-10 - A bot for having Pokémon battles in Slack.
+* [slack-pokemon](https://github.com/rvinluan/slack-pokemon) ⭐ 340 | 🐛 8 | 🌐 JavaScript | 📅 2017-05-10 - A bot for having Pokémon battles in Slack.
 * [Poketrainer](https://github.com/j-e-k/poketrainer) ⚠️ Archived - A fast and feature filled bot in Python.
 * [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) ⚠️ Archived - A bot mimicking Twitch Plays Pokémon.
 * [PokeSlack](https://github.com/timwah/pokeslack) ⭐ 36 | 🐛 17 | 🌐 Python | 📅 2016-08-10 - Alerts you of nearby Pokémon.
@@ -81,12 +81,12 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Miscellaneous
 
-* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,924 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
-* [pokered](https://github.com/pret/pokered) ⭐ 5,002 | 🐛 22 | 🌐 Assembly | 📅 2026-10-06 - Disassembly of Pokémon Red/Blue.
+* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,921 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
+* [pokered](https://github.com/pret/pokered) ⭐ 5,003 | 🐛 22 | 🌐 Assembly | 📅 2026-10-21 - Disassembly of Pokémon Red/Blue.
 * [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,810 | 🐛 46 | 🌐 Python | 📅 2026-02-25 - Pokémon terminal themes for iTerm2.
-* [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,535 | 🐛 59 | 🌐 Assembly | 📅 2026-10-21 - Disassembly of Pokémon Crystal.
-* [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) ⭐ 2,462 | 🐛 35 | 🌐 Swift | 📅 2023-11-03 - Play Pokémon GO safely or at unavailable area.
-* [pokesprite](https://github.com/msikma/pokesprite) ⭐ 1,294 | 🐛 22 | 🌐 Python | 📅 2024-05-07 - Database of Pokémon sprites from the core series games, including custom shiny versions.
+* [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,537 | 🐛 59 | 🌐 Assembly | 📅 2026-10-21 - Disassembly of Pokémon Crystal.
+* [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) ⭐ 2,461 | 🐛 35 | 🌐 Swift | 📅 2023-11-03 - Play Pokémon GO safely or at unavailable area.
+* [pokesprite](https://github.com/msikma/pokesprite) ⭐ 1,295 | 🐛 22 | 🌐 Python | 📅 2024-05-07 - Database of Pokémon sprites from the core series games, including custom shiny versions.
 * [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) ⭐ 1,248 | 🐛 20 | 🌐 JavaScript | 📅 2026-03-23 - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
 * [PokeMMO](https://github.com/maierfelix/PokeMMO) ⭐ 763 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-12 - WebGL Pokémon MMO Engine with Realtime Editor.
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) ⭐ 497 | 🐛 64 | 🌐 JavaScript | 📅 2016-07-31 - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
@@ -173,4 +173,4 @@ To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
