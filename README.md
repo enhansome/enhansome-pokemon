@@ -43,10 +43,10 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### APIs
 
-* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,429 | 🐛 139 | 🌐 Python | 📅 2026-10-20 - A RESTful API for Pokémon (<http://pokeapi.co/>).
+* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,431 | 🐛 139 | 🌐 Python | 📅 2026-10-20 - A RESTful API for Pokémon (<http://pokeapi.co/>).
 * [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) ⭐ 1,551 | 🐛 32 | 🌐 Kotlin | 📅 2024-01-25 - Pokedex app built with Kotlin.
-* [pgoapi](https://github.com/tejado/pgoapi) ⭐ 1,388 | 🐛 76 | 🌐 Protocol Buffer | 📅 2022-09-23 - Pokémon GO API lib/demo.
-* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,148 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-19 - Multi languages Pokémon TCG API.
+* [pgoapi](https://github.com/tejado/pgoapi) ⭐ 1,389 | 🐛 76 | 🌐 Protocol Buffer | 📅 2022-09-23 - Pokémon GO API lib/demo.
+* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,154 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-19 - Multi languages Pokémon TCG API.
 * [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) ⭐ 1,046 | 🐛 12 | 🌐 Java | 📅 2021-11-12 - Pokémon GO API for Java.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) ⭐ 876 | 🐛 54 | 🌐 JavaScript | 📅 2019-05-27 - Pokémon GO API Node.js library.
 * [Pokemon Name API](https://github.com/sindresorhus/pokemon) ⭐ 508 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-13 - Get a list of Pokémon names in JSON.
@@ -58,8 +58,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Apps
 
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,376 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-22 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
-* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,995 | 🐛 333 | 🌐 TypeScript | 📅 2026-10-26 - Pokémon battle simulator.
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,377 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-22 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 5,997 | 🐛 306 | 🌐 TypeScript | 📅 2026-10-27 - Pokémon battle simulator.
 * [iPokeMon](https://github.com/Kjuly/iPokeMon) ⭐ 421 | 🐛 9 | 🌐 Objective-C | 📅 2016-08-26 - Pokémon like game on iOS with Location Based Service.
 * [pokemon-online](https://github.com/po-devs/pokemon-online) ⭐ 302 | 🐛 14 | 🌐 C++ | 📅 2025-03-23 - Online Pokémon Battle Simulator.
 * [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) ⭐ 100 | 🐛 13 | 🌐 Java | 📅 2020-09-21 - A program to identify and display the best next move for the game Pokémon Shuffle.
@@ -81,7 +81,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Miscellaneous
 
-* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,924 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
+* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,926 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
 * [pokered](https://github.com/pret/pokered) ⭐ 5,014 | 🐛 22 | 🌐 Assembly | 📅 2026-10-24 - Disassembly of Pokémon Red/Blue.
 * [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,809 | 🐛 46 | 🌐 Python | 📅 2026-02-25 - Pokémon terminal themes for iTerm2.
 * [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,540 | 🐛 59 | 🌐 Assembly | 📅 2026-10-21 - Disassembly of Pokémon Crystal.
@@ -131,7 +131,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 * [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) ⚠️ Archived - Electron app for Pokémon GO that shows Pokémon nearby.
 * [Pokemap](https://github.com/omkarmoghe/Pokemap) ⚠️ Archived - A native Android client to map the Pokémon around you.
 * [iPokeGo](https://github.com/istornz/iPokeGo) ⭐ 641 | 🐛 53 | 🌐 Objective-C | 📅 2022-09-04 - A native iOS client to map the Pokémon around you.
-* [pokelocater](https://github.com/emeth-/pokelocater) ⭐ 131 | 🐛 10 | 🌐 Python | 📅 2016-07-22 - Display Pokémon nearby your location on a map.
+* [pokelocater](https://github.com/emeth-/pokelocater) ⭐ 130 | 🐛 10 | 🌐 Python | 📅 2016-07-22 - Display Pokémon nearby your location on a map.
 * [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
 * [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 
@@ -173,4 +173,4 @@ To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
