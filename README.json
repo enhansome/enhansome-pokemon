@@ -21,7 +21,7 @@
                 "open_issues": 139,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5431,
+                "stars": 5435,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "tejado",
                 "repo": "pgoapi",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -134,7 +134,7 @@
                 "open_issues": 12,
                 "owner": "Grover-c13",
                 "repo": "PokeGOAPI-Java",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -224,7 +224,7 @@
                 "open_issues": 59,
                 "owner": "FeroxRev",
                 "repo": "Pokemon-Go-Rocket-API",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -337,11 +337,11 @@
                 "id": 268501098,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T08:32:02Z",
+                "last_commit": "2026-10-28T18:42:24Z",
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8377,
+                "stars": 8374,
                 "topics": [
                   "android",
                   "coroutines",
@@ -374,7 +374,7 @@
                 "open_issues": 306,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 5997,
+                "stars": 6001,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7926,
+                "stars": 7928,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -847,7 +847,7 @@
                 "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2540,
+                "stars": 2541,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -989,7 +989,7 @@
                 "open_issues": 21,
                 "owner": "rastapasta",
                 "repo": "pokemon-go-mitm",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "coffeescript",
                   "javascript",
@@ -1355,7 +1355,7 @@
                 "open_issues": 49,
                 "owner": "nolanlawson",
                 "repo": "pokedex.org",
-                "stars": 2271,
+                "stars": 2270,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:29:21.613Z",
+    "last_updated": "2026-10-28T19:40:38.672Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
@@ -1403,7 +1403,7 @@
       "open_issues": 22,
       "owner": "tobiasbueschel",
       "repo": "awesome-pokemon",
-      "stars": 710,
+      "stars": 711,
       "topics": [
         "awesome",
         "awesome-list",
