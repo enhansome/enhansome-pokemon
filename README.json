@@ -17,11 +17,11 @@
                 "id": 27534934,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-20T12:46:45Z",
-                "open_issues": 139,
+                "last_commit": "2026-10-29T09:15:52Z",
+                "open_issues": 140,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5435,
+                "stars": 5436,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -99,7 +99,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T09:03:29Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "tcgdex",
                 "repo": "cards-database",
                 "stars": 1154,
@@ -337,11 +337,11 @@
                 "id": 268501098,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T18:42:24Z",
+                "last_commit": "2026-10-28T22:14:22Z",
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8374,
+                "stars": 8375,
                 "topics": [
                   "android",
                   "coroutines",
@@ -370,11 +370,11 @@
                 "id": 3038446,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T15:59:41Z",
-                "open_issues": 306,
+                "last_commit": "2026-10-29T05:01:16Z",
+                "open_issues": 307,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 6001,
+                "stars": 6004,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -787,7 +787,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5014,
+                "stars": 5015,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -814,7 +814,7 @@
                 "open_issues": 46,
                 "owner": "LazoVelko",
                 "repo": "Pokemon-Terminal",
-                "stars": 4809,
+                "stars": 4811,
                 "topics": [
                   "bash",
                   "iterm2",
@@ -843,11 +843,11 @@
                 "id": 4058868,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-21T23:30:12Z",
+                "last_commit": "2026-10-28T22:57:39Z",
                 "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2541,
+                "stars": 2542,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -947,7 +947,7 @@
                 "open_issues": 12,
                 "owner": "maierfelix",
                 "repo": "PokeMMO",
-                "stars": 764,
+                "stars": 766,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 145,
                 "owner": "veekun",
                 "repo": "pokedex",
-                "stars": 1529,
+                "stars": 1528,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:40:38.672Z",
+    "last_updated": "2026-10-29T19:43:00.845Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
@@ -1403,7 +1403,7 @@
       "open_issues": 22,
       "owner": "tobiasbueschel",
       "repo": "awesome-pokemon",
-      "stars": 711,
+      "stars": 712,
       "topics": [
         "awesome",
         "awesome-list",
