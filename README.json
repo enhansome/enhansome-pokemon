@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-30T11:43:40Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5438,
+                "stars": 5440,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -98,11 +98,11 @@
                 "id": 241652591,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T09:03:29Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-30T22:44:21Z",
+                "open_issues": 160,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1157,
+                "stars": 1159,
                 "topics": [
                   "bunjs",
                   "card",
@@ -337,7 +337,7 @@
                 "id": 268501098,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T22:14:22Z",
+                "last_commit": "2026-10-31T01:57:40Z",
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
@@ -370,11 +370,11 @@
                 "id": 3038446,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T17:03:49Z",
-                "open_issues": 307,
+                "last_commit": "2026-10-31T00:45:56Z",
+                "open_issues": 312,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 6007,
+                "stars": 6010,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7930,
+                "stars": 7931,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -783,7 +783,7 @@
                 "id": 11211886,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-24T14:14:56Z",
+                "last_commit": "2026-10-31T15:23:31Z",
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
@@ -843,7 +843,7 @@
                 "id": 4058868,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-28T22:57:39Z",
+                "last_commit": "2026-10-30T23:54:21Z",
                 "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
@@ -895,7 +895,7 @@
                 "open_issues": 22,
                 "owner": "msikma",
                 "repo": "pokesprite",
-                "stars": 1299,
+                "stars": 1300,
                 "topics": [
                   "icons",
                   "pokedex",
@@ -1256,7 +1256,7 @@
                 "open_issues": 0,
                 "owner": "mchristopher",
                 "repo": "PokemonGo-DesktopMap",
-                "stars": 1742,
+                "stars": 1743,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1376,7 +1376,7 @@
                 "open_issues": 145,
                 "owner": "veekun",
                 "repo": "pokedex",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:30:14.649Z",
+    "last_updated": "2026-10-31T18:38:46.396Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
