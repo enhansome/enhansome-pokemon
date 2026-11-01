@@ -21,7 +21,7 @@
                 "open_issues": 139,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5440,
+                "stars": 5443,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -98,11 +98,11 @@
                 "id": 241652591,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T22:44:21Z",
-                "open_issues": 160,
+                "last_commit": "2026-11-01T12:13:52Z",
+                "open_issues": 158,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1159,
+                "stars": 1160,
                 "topics": [
                   "bunjs",
                   "card",
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8375,
+                "stars": 8376,
                 "topics": [
                   "android",
                   "coroutines",
@@ -371,10 +371,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-31T00:45:56Z",
-                "open_issues": 312,
+                "open_issues": 313,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 6010,
+                "stars": 6011,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -523,7 +523,7 @@
                 "open_issues": 173,
                 "owner": "PokemonGoF",
                 "repo": "PokemonGo-Bot",
-                "stars": 3928,
+                "stars": 3927,
                 "topics": [
                   "automation",
                   "bot",
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7931,
+                "stars": 7930,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -787,7 +787,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5014,
+                "stars": 5015,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -847,7 +847,7 @@
                 "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2543,
+                "stars": 2544,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -874,7 +874,7 @@
                 "open_issues": 35,
                 "owner": "kahopoon",
                 "repo": "Pokemon-Go-Controller",
-                "stars": 2461,
+                "stars": 2460,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -895,7 +895,7 @@
                 "open_issues": 22,
                 "owner": "msikma",
                 "repo": "pokesprite",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": [
                   "icons",
                   "pokedex",
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:38:46.396Z",
+    "last_updated": "2026-11-01T18:59:46.766Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
