@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-05T09:50:36Z",
-                "open_issues": 141,
+                "open_issues": 142,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5454,
+                "stars": 5456,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -49,7 +49,7 @@
                 "open_issues": 33,
                 "owner": "mrcsxsiq",
                 "repo": "Kotlin-Pokedex",
-                "stars": 1549,
+                "stars": 1550,
                 "topics": [
                   "android",
                   "architecture-components",
@@ -99,10 +99,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T12:53:20Z",
-                "open_issues": 181,
+                "open_issues": 183,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1173,
+                "stars": 1174,
                 "topics": [
                   "bunjs",
                   "card",
@@ -374,7 +374,7 @@
                 "open_issues": 311,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 6019,
+                "stars": 6021,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -459,10 +459,10 @@
                 "description": "guess pokemon through their cries",
                 "homepage": "https://fent.github.io/pokecry/",
                 "id": 22832828,
-                "language": "JavaScript",
+                "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T11:06:54Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-07T10:54:37Z",
+                "open_issues": 6,
                 "owner": "fent",
                 "repo": "pokecry",
                 "stars": 11,
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7932,
+                "stars": 7934,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -814,7 +814,7 @@
                 "open_issues": 47,
                 "owner": "LazoVelko",
                 "repo": "Pokemon-Terminal",
-                "stars": 4812,
+                "stars": 4813,
                 "topics": [
                   "bash",
                   "iterm2",
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:28:35.306Z",
+    "last_updated": "2026-11-07T18:53:46.903Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
