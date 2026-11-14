@@ -99,7 +99,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T13:51:46Z",
-                "open_issues": 175,
+                "open_issues": 179,
                 "owner": "tcgdex",
                 "repo": "cards-database",
                 "stars": 1185,
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8386,
+                "stars": 8387,
                 "topics": [
                   "android",
                   "coroutines",
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7936,
+                "stars": 7937,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -783,11 +783,11 @@
                 "id": 11211886,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-11-12T19:46:07Z",
+                "last_commit": "2026-11-14T16:51:38Z",
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5031,
+                "stars": 5034,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:55:46.551Z",
+    "last_updated": "2026-11-14T19:17:06.003Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
