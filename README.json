@@ -17,11 +17,11 @@
                 "id": 27534934,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T20:46:02Z",
-                "open_issues": 126,
+                "last_commit": "2026-11-17T16:26:36Z",
+                "open_issues": 113,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
-                "stars": 5477,
+                "stars": 5478,
                 "topics": [
                   "api",
                   "beginner-friendly",
@@ -99,10 +99,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-15T19:30:19Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1190,
+                "stars": 1192,
                 "topics": [
                   "bunjs",
                   "card",
@@ -337,11 +337,11 @@
                 "id": 268501098,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T09:13:44Z",
+                "last_commit": "2026-11-17T05:14:27Z",
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8391,
+                "stars": 8390,
                 "topics": [
                   "android",
                   "coroutines",
@@ -374,7 +374,7 @@
                 "open_issues": 314,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 6032,
+                "stars": 6033,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -766,7 +766,7 @@
                 "open_issues": 84,
                 "owner": "PWhiddy",
                 "repo": "PokemonRedExperiments",
-                "stars": 7937,
+                "stars": 7936,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:02.691Z"
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:26:35.346Z",
+    "last_updated": "2026-11-17T22:29:40.865Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
