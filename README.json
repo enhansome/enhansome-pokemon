@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-20T20:17:45Z",
-                "open_issues": 107,
+                "open_issues": 110,
                 "owner": "PokeAPI",
                 "repo": "pokeapi",
                 "stars": 5482,
@@ -99,10 +99,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-19T15:02:33Z",
-                "open_issues": 175,
+                "open_issues": 177,
                 "owner": "tcgdex",
                 "repo": "cards-database",
-                "stars": 1206,
+                "stars": 1207,
                 "topics": [
                   "bunjs",
                   "card",
@@ -371,10 +371,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-20T17:22:11Z",
-                "open_issues": 322,
+                "open_issues": 323,
                 "owner": "smogon",
                 "repo": "pokemon-showdown",
-                "stars": 6039,
+                "stars": 6041,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -787,7 +787,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5039,
+                "stars": 5041,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -1391,7 +1391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:35:42.437Z",
+    "last_updated": "2026-11-22T20:46:12.293Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.",
@@ -1400,7 +1400,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-11-11T03:17:16Z",
-      "open_issues": 22,
+      "open_issues": 23,
       "owner": "tobiasbueschel",
       "repo": "awesome-pokemon",
       "stars": 717,
