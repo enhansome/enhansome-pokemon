@@ -43,10 +43,10 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### APIs
 
-* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,481 | 🐛 104 | 🌐 Python | 📅 2026-11-23 - A RESTful API for Pokémon (<http://pokeapi.co/>).
-* [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) ⭐ 1,548 | 🐛 33 | 🌐 Kotlin | 📅 2024-01-25 - Pokedex app built with Kotlin.
+* [PokeAPI](https://github.com/PokeAPI/pokeapi/) ⭐ 5,482 | 🐛 104 | 🌐 Python | 📅 2026-11-23 - A RESTful API for Pokémon (<http://pokeapi.co/>).
+* [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) ⭐ 1,547 | 🐛 33 | 🌐 Kotlin | 📅 2024-01-25 - Pokedex app built with Kotlin.
 * [pgoapi](https://github.com/tejado/pgoapi) ⭐ 1,389 | 🐛 76 | 🌐 Protocol Buffer | 📅 2022-09-23 - Pokémon GO API lib/demo.
-* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,210 | 🐛 177 | 🌐 TypeScript | 📅 2026-11-19 - Multi languages Pokémon TCG API.
+* [TCGdex](https://github.com/tcgdex/cards-database) ⭐ 1,212 | 🐛 165 | 🌐 TypeScript | 📅 2026-11-24 - Multi languages Pokémon TCG API.
 * [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) ⭐ 1,044 | 🐛 12 | 🌐 Java | 📅 2021-11-12 - Pokémon GO API for Java.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) ⭐ 876 | 🐛 54 | 🌐 JavaScript | 📅 2019-05-27 - Pokémon GO API Node.js library.
 * [Pokemon Name API](https://github.com/sindresorhus/pokemon) ⭐ 508 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-13 - Get a list of Pokémon names in JSON.
@@ -58,8 +58,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Apps
 
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,390 | 🐛 26 | 🌐 Kotlin | 📅 2026-11-21 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
-* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 6,040 | 🐛 319 | 🌐 TypeScript | 📅 2026-11-22 - Pokémon battle simulator.
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,392 | 🐛 26 | 🌐 Kotlin | 📅 2026-11-21 - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+* [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) ⭐ 6,044 | 🐛 306 | 🌐 TypeScript | 📅 2026-11-24 - Pokémon battle simulator.
 * [iPokeMon](https://github.com/Kjuly/iPokeMon) ⭐ 420 | 🐛 9 | 🌐 Objective-C | 📅 2016-08-26 - Pokémon like game on iOS with Location Based Service.
 * [pokemon-online](https://github.com/po-devs/pokemon-online) ⭐ 303 | 🐛 15 | 🌐 C++ | 📅 2025-03-23 - Online Pokémon Battle Simulator.
 * [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) ⭐ 100 | 🐛 13 | 🌐 Java | 📅 2020-09-21 - A program to identify and display the best next move for the game Pokémon Shuffle.
@@ -81,8 +81,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Miscellaneous
 
-* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,938 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
-* [pokered](https://github.com/pret/pokered) ⭐ 5,042 | 🐛 23 | 🌐 Assembly | 📅 2026-11-14 - Disassembly of Pokémon Red/Blue.
+* [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) ⭐ 7,940 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Playing Pokémon Red with Reinforcement Learning.
+* [pokered](https://github.com/pret/pokered) ⭐ 5,045 | 🐛 22 | 🌐 Assembly | 📅 2026-11-24 - Disassembly of Pokémon Red/Blue.
 * [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,808 | 🐛 47 | 🌐 Python | 📅 2026-02-25 - Pokémon terminal themes for iTerm2.
 * [pokecrystal](https://github.com/pret/pokecrystal) ⭐ 2,556 | 🐛 59 | 🌐 Assembly | 📅 2026-11-16 - Disassembly of Pokémon Crystal.
 * [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) ⭐ 2,459 | 🐛 35 | 🌐 Swift | 📅 2023-11-03 - Play Pokémon GO safely or at unavailable area.
